@@ -9,3 +9,5 @@ Note: ViolentMonkey is an opensource version of the now slightly antiquated Grea
 
 Then open the .user.js file in this repository in your browser to add it to ViolentMonkey (Link: https://github.com/Marianbc/Sky-Music-PS4/raw/main/SkyPS4MusicConverter.user.js). Additionally, you could copy the code over into violentmonkey by creating a new script.
 
+Find hundreds of songs at https://sky-music.github.io/index.html
+Additionally, find songs I transcribed for sky and video tutorials on my Youtube Channel at https://www.youtube.com/channel/UCrR4wv42GMSjrbRCnwa56Sg
