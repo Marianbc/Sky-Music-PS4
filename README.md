@@ -1,5 +1,5 @@
 # Sky-Music-PS4
-Maps your sky music sheet to PS4 friendly view
+Maps your sky music sheet to PS4 friendly view. Video install guide and demo: https://www.youtube.com/watch?v=G_RxBzIRtf8
 
 # Setup
 First download the Open-Sourced ViolentMonkey Extension for your browser of choice here:
