@@ -7,5 +7,5 @@ https://violentmonkey.github.io/
 
 Note: ViolentMonkey is an opensource version of the now slightly antiquated GreaseMonkey Extension. You can also use Tampermonkey or any other derivative of greasemonkey, just might require some code tweaking.
 
-Then open the .user.js file in this repository in your browser to add it to ViolentMonkey. Additionally, you could copy the code over into violentmonkey by creating a new script.
+Then open the .user.js file in this repository in your browser to add it to ViolentMonkey (Link: https://github.com/Marianbc/Sky-Music-PS4/raw/main/SkyPS4MusicConverter.user.js). Additionally, you could copy the code over into violentmonkey by creating a new script.
 
